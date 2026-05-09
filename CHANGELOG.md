@@ -1,4 +1,17 @@
 
+## [2.0.0] - 2026-05-09
+
+
+
+### Documentation
+
+
+- Update changelog for v1.0.0
+
+- Segunda versão
+
+
+
 ## [1.0.0] - 2026-05-09
 
 
