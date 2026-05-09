@@ -25,7 +25,6 @@ jobs:
           config: cliff.toml
           args: --verbose --latest --prepend CHANGELOG.md
         env:
-          OUTPUT: CHANGELOG.md
           GITHUB_REPO: ${{ github.repository }}
 
       - name: Commit CHANGELOG.md
